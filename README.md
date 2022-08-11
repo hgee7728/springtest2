@@ -3,10 +3,10 @@
 
 
 
-# 파이널 프로젝트 - BAB 그룹웨어 <img width="50" alt="image" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1568917764/noticon/stddia3lvzo8napn15ec.png">
+# 파이널 프로젝트 - PISIC (PIck your muSIC) 음원스트리밍 사이트 <img width="50" alt="image" src="">
 
 
-## Contents <img width="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008133/noticon/mw0xnjgco64rfeviwqvy.png">
+## Contents <img width="30" src="">
 1. 팀 소개
 2. 프로젝트 개요
 3. 설계의 주안점
@@ -17,17 +17,17 @@
 <br>
 
 ## 1️⃣ 팀 소개
-<img width="1911" alt="image" src="https://user-images.githubusercontent.com/83773369/181913934-be21209f-3edb-4a7b-8428-f67879500a3d.png">
+<img width="1911" alt="image" src="">
 
 <br>
 
 ## 2️⃣ 프로젝트 개요
-<img width="1913" alt="image" src="https://user-images.githubusercontent.com/83773369/181913946-265024a0-50af-4e75-97b1-efdf2054c5bc.png">
+<img width="1913" alt="image" src="">
 
-<img width="30" alt="image" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1626765925/noticon/mpyse3r6bwekcye70p5o.png"> ***그룹웨어 미사용시***
-  - 업무 프로세서가 정립되지 않아 업무 인수인계가 제대로 이루어지지 않을 수 있다.
-  - 실시간으로 의사 결정을 내리기가 어렵다.
-  - 협업을 함에 있어 애로사항이 많다.
+<img width="30" alt="image" src=""> ***내용내용***
+  - 내용
+  - 내용
+  - 내용
 
 <br>
 
@@ -42,271 +42,80 @@
 <br>
 
 ## 4️⃣ 개발환경
-<img width="1711" alt="image" src="https://user-images.githubusercontent.com/83773369/181913916-5f7079cd-9175-4580-ae52-22e469f8060c.png">
+<img width="1711" alt="image" src="">
 
 <br>
 
 ## 5️⃣ 주요기능
 
 <div align="center">
-<img width="200" alt="image" src="https://user-images.githubusercontent.com/83773369/181919991-5f793a9f-3436-4c6a-988c-a531159070e8.png">
+<img width="200" alt="image" src="">
 </div>
 
 <details>
-<summary><h3>✅ 조직도 </h3></summary>
+<summary><h3>✅ 박준현 </h3></summary>
 <div markdown="1"> 
 
 <div align="center">
-<img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png"> 조직도 조회 및 검색 <img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png">
+<img width="250" alt="image" src=""> 내용내용내용 <img width="250" alt="image" src="">
 </div>
 
 <br>
 
 <div align="center">
-
-![1_조직도)조회,검색](https://user-images.githubusercontent.com/83773369/181914139-fe9856f3-6230-4ad8-902b-e4ab6c9ceb44.gif)
-
+  
+![1_로그인)내용,내용](GIF 경로)
+  
 </div>
 
+- 내용
+- 내용
+- 내용
 ---
 <div align="center">
-<img width="100" alt="image" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1577544307/noticon/a7cmr2ibsfyuwcydpvny.png">
+<img width="100" alt="image" src="">
 </div>
 
-<img width="1887" alt="image" src="https://user-images.githubusercontent.com/83773369/181916270-7f9031d4-43bc-42be-8a7f-7475868189a0.png">
+<img width="1887" alt="image" src="">
 
+- 내용
+- 내용
+- 내용
 
-
-- jsTree API 사용
-- 부서, 사원을 DB에서 조회하여 배열안 객체(`[{}]`)형태로 만든 후 jsTree만드는 함수에 데이터를 넣어 조직도 생성
-- 노드 전체 펼치기와 전체 닫기 버튼을 구현
-- 검색 기능을 구현하여 검색한 내용과 일치하는 노드 찾기
-- 사원 클릭 시 사원의 상세 정보 조회 가능
 </details>
 
 ---
 
 <details>
-<summary><h3>✅ 전자결재 </h3></summary>
+<summary><h3>✅ 장효기 </h3></summary>
 <div markdown="1"> 
 
 <div align="center">
-<img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png"> 결재 양식 선택 <img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png">
+<img width="250" alt="image" src=""> 내용 내용 <img width="250" alt="image" src="">
 </div>
 
 <br>
 
 <div align="center">
 
-![2_전자결재)결재양식선택](https://user-images.githubusercontent.com/83773369/181916365-e35a83fd-9f1f-4235-85df-84e486aaa1c0.gif)
+![2_메인)내용 내용](gif 경로)
 
 </div>
 
-- 양식을 선택하지 않으면 경고메시지
-- 휴가신청서를 선택하면 휴가신청서 로드
-- 지출결의서를 선택하면 지출결의서 로드
+- 내용
+- 내용
+- 내용
 ---
 <div align="center">
-<img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png"> 결재선 지정
-<img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png">
+<img width="100" alt="image" src="">
 </div>
 
-<br>
+<img width="1887" alt="image" src="">
 
-<div align="center">
+- 내용
+- 내용
+- 내용
 
-![3_전자결재)결재선지정](https://user-images.githubusercontent.com/83773369/181916622-907b8a5a-356d-41ca-8891-ca9ad25020c9.gif)
-
-</div>
-
-- 결재선 지정 전 입력 시 alert
-- 조직도가 로드되고 사원 선택 후 `→` 를 클릭하면 결재선 리스트에 직책 순으로 추가됨
-- 결재선에 4명 이상 추가 시, 기안자 결재선 리스트에 추가 시, 결재선 리스트에 아무도 없을 시 alert
-- `←` 클릭 시 결재선 리스트 모두 삭제
-- 부서명 클릭 후 `→` 클릭 시 참조처 리스트에 추가
-
----
-
-<div align="center">
-<img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png"> 문서 기안 
-<img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png">
-</div>
-
-<br>
-
-<div align="center">
-
-![4_전자결재)문서기안](https://user-images.githubusercontent.com/83773369/181917698-661216e5-4bbd-401b-b656-3c9e6cebd506.gif)
-
-</div>
-
-- 결재선 지정 후 제목, 내용, 내역 입력(미입력 시 결재요청 진행되지 않음)
-- datepicker API를 사용하여 날짜 선택
-- 수량, 금액 입력 시 합계금액 자동 계산
-- uploadcare API사용하여 파일첨부 기능 구현
-
----
-
-<div align="center">
-<img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png"> 결재 회수
-<img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png">
-</div>
-
-<br>
-
-<div align="center">
-
-![5_전자결재)문서회수](https://user-images.githubusercontent.com/83773369/181916879-c50f1e7f-6365-44f0-b12e-70243d227acf.gif)
-
-</div>
-
-- 내가 올린 기안문 중 결재자가 승인/반려 전인 문서는 결재회수 가능
-
----
-
-<div align="center">
-<img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png"> 문서 수정
-<img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png">
-</div>
-
-<br>
-
-<div align="center">
-
-![6_전자결재)문서수정](https://user-images.githubusercontent.com/83773369/181916883-c668239b-5f96-4be4-8518-26cf4787e4cd.gif)
-
-</div>
-
-- 결재대기 상태인 문서는 문서수정 가능
-
----
-
-<div align="center">
-<img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png"> 결재 승인 
-<img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png">
-</div>
-
-<br>
-
-<div align="center">
-
-![7_전자결재)승인](https://user-images.githubusercontent.com/83773369/181916968-5dc038ed-71e3-4c81-9aee-707ae5721137.gif)
-
-</div>
-
-- 결재 수신 문서에서는 내가 승인/반려해야 할 문서들 조회
-- 결재 승인 클릭 시 승인되며 다음 결재자 순서로 넘어감
-
----
-
-<div align="center">
-<img width="100" alt="image" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1577544307/noticon/a7cmr2ibsfyuwcydpvny.png">
-</div>
-
-<img width="1909" alt="image" src="https://user-images.githubusercontent.com/83773369/181917133-07e94bbd-8374-40db-8f2f-92f93e66103d.png">
-
-- 승인 후 결재상태는 진행중으로 변경됨
-- 결재 회수 또는 수정이 불가능
-- 문서 상세조회 시 현재 어느 결재자가 승인했는지 확인 가능
-
----
-
-<div align="center">
-<img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png"> 결재 반려 
-<img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png">
-</div>
-
-<br>
-
-<div align="center">
-
-![8_전자결재)반려](https://user-images.githubusercontent.com/83773369/181916971-621a3684-3899-4cf3-9627-1650a90248ad.gif)
-
-</div>
-
-- 메인페이지의 알람버튼 클릭 시 결재해야 할 문서가 몇 건 있는지 알려줌
-- 반려 사유 입력 시 반려 진행
-
-<div align="center">
-<img width="100" alt="image" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1577544307/noticon/a7cmr2ibsfyuwcydpvny.png">
-</div>
-
-<img width="1912" alt="image" src="https://user-images.githubusercontent.com/83773369/181917190-332c8224-1504-4396-82e9-857f01f3643d.png">
-
-- 문서 상세조회 시 누가 반려했는지 확인 가능
-- 반려 사유 클릭 시 사유 확인 가능
-- 반려 시 다음 결재자가 있어도 해당 문서는 더이상 결재 진행되지 않음
-
----
-<div align="center">
-<img width="100" alt="image" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1577544307/noticon/a7cmr2ibsfyuwcydpvny.png">
-</div>
-
-<img width="1906" alt="image" src="https://user-images.githubusercontent.com/83773369/181917896-f0e01f52-7452-4b57-8bf6-c66ff07ebb86.png">
-
-- jsp에서 `<c:if>` 태그를 사용하여 승인자 순서 별로 조건을 추가하여 상태를 화면에 나타내줌
-
----
-
-<div align="center">
-<img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png"> 기안 문서함
-<img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png">
-</div>
-
-<br>
-
-<div align="center">
-
-![9_전자결재)기안문서함](https://user-images.githubusercontent.com/83773369/181917378-c2f17d4a-79ee-4ed9-b5f1-2feef44fa9d9.gif)
-
-</div>
-
-- 내가 기안했던 문서들 중 반려 또는 결재완료 상태인 문서 조회
-- 한 페이지에 6개씩 보이도록 페이징 처리
-- [ 제목 / 결재 양식 ] 으로 검색 가능
-- 검색 결과가 없을 시 검색결과가 없다고 메시지가 나타나고 목록으로 클릭 시 리스트들 다시 조회 가능
-
----
-
-<div align="center">
-<img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png"> 결재 문서함 
-<img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png">
-</div>
-
-<br>
-
-<div align="center">
-
-![10_전자결재)결재문서함](https://user-images.githubusercontent.com/83773369/181917581-8c18dbf1-702c-4e0c-b9ea-cc16c77e1626.gif)
-
-</div>
-
-- 내가 승인 또는 반려했던 문서들 중 반려 또는 결재완료 상태인 문서 조회
-- 한 페이지에 6개씩 보이도록 페이징 처리
-- [ 제목 / 결재 양식 / 기안자 / 기안 부서 ] 로 검색 가능
-- 검색 결과가 없을 시 검색결과가 없다고 메시지가 나타나고 목록으로 클릭 시 리스트들 다시 조회 가능
-
----
-
-<div align="center">
-<img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png"> 참조 문서함 
-<img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png">
-</div>
-
-<br>
-
-<div align="center">
-
-![11_전자결재)참조문서함](https://user-images.githubusercontent.com/83773369/181917834-dc378a5b-5f9e-48ef-8949-961be34c760b.gif)
-
-</div>
-
-- 결재선 지정 시 참조부서를 지정하면 해당 부서 사원 모두가 조회 가능
-- 한 페이지에 6개씩 보이도록 페이징 처리
-- [ 제목 / 결재 양식 / 기안자 / 기안 부서 ] 로 검색 가능
-- 검색 결과가 없을 시 검색결과가 없다고 메시지가 나타나고 목록으로 클릭 시 리스트들 다시 조회 가능
-
-</div>
 </details>
 
 ---
@@ -853,26 +662,26 @@
 
 ##  1. 개발 일정
 
-<img width="1906" alt="image" src="https://user-images.githubusercontent.com/83773369/182081450-dbb3a95f-6235-4bcb-b460-4c9ed1a22c6d.png">
+<img width="1906" alt="image" src="">
 
 <br>
 
 ## 2. 유스케이스
 
-<img width="1707" alt="image" src="https://user-images.githubusercontent.com/83773369/182176678-d45a7246-a74e-4ac5-b700-2a4178a828fc.png">
+<img width="1707" alt="image" src="">
 
 <br>
 
 ## 3. ERD
 
-![6_9수정  5조_BAB 그룹웨어 (1)](https://user-images.githubusercontent.com/83773369/183255199-34af36d4-92c7-4e62-a529-e4f18b878851.png)
+![내용 내용](png 경로)
 
 
 <br>
 
 ## 4. Sequence Diagram
 
-![문서기안, 기안문 결재 행동 시퀀스](https://user-images.githubusercontent.com/83773369/183291735-3a9ba65b-5467-4507-8b57-49bd1c1ebbc6.png)
+![내용 내용](png 경로)
 
 <br>
 
